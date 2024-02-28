@@ -46,7 +46,7 @@ include ("config.php");
                     </div>
 
                     <div class="col-md-4 mb-3">
-                        <label for="due_date" class="form-label">Due Date</label>
+                        <label for="due_date" class="form-label">Duee Date</label>
                         <input type="date" class="form-control" name="due_date"  id="due_date">
                     </div>
 
